@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/indo_cinemaxAndroid.iml" filepath="$PROJECT_DIR$/indo_cinemaxAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indo_cinemax_android.iml" filepath="$PROJECT_DIR$/indo_cinemax_android.iml" />
     </modules>
   </component>
 </project>
