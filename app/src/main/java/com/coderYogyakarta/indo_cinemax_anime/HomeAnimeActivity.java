@@ -62,7 +62,7 @@ public class HomeAnimeActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
         setupViewPager(vpHomAnime);
         tabHomeAnime.setupWithViewPager(vpHomAnime);
-
+//cobas
 
 
         fab.setOnClickListener(new View.OnClickListener() {
