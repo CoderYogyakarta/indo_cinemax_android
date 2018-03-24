@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.indokoding.indo_cinemax_android">
+    package="com.coderYogyakarta.indo_cinemax_box_office">
 
     <application
         android:allowBackup="true"
@@ -19,7 +19,12 @@
         <activity
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.coderYogyakarta.indo_cinemax_anime.HomeAnimeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+
     </application>
 
 </manifest>

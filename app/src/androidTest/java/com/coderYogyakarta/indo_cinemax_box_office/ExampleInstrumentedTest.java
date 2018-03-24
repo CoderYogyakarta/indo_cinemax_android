@@ -1,4 +1,4 @@
-package com.indokoding.indo_cinemax_android;
+package com.coderYogyakarta.indo_cinemax_box_office;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
