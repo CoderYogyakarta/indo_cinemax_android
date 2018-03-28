@@ -31,4 +31,9 @@ dependencies {
     //    gradle buter knife
     compile 'com.jakewharton:butterknife:8.5.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+
+//   material design
+    compile 'com.android.support:support-vector-drawable:26.1.0'
+    compile 'com.android.support:cardview-v7:26.1.0'
+    compile 'com.android.support:recyclerview-v7:26.1.0'
 }
