@@ -40,7 +40,7 @@ public class HomeFragment extends Fragment {
         }catch (Exception e){
             e.printStackTrace();
         }
-
+//        dicoba
         return view;
     }
 
