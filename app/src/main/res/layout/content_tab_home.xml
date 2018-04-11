@@ -5,15 +5,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:showIn="@layout/fragment_home">
+    tools:showIn="@layout/fragment_home"
+    android:id="@+id/RL_ct_tb_home"
+    >
 
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/recycle_viewBoxOffoce"
+        android:layout_below="@+id/RL_ct_tb_home"
+        android:id="@+id/recycle_viewHomeBoxOffoce"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:clipToPadding="false"
         android:scrollbars="vertical"
-        >
+        tools:ignore="NotSibling">
 
     </android.support.v7.widget.RecyclerView>
 

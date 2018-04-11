@@ -2,12 +2,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.coderYogyakarta.fragment_anime.FragmentImageSliderHomeAnime">
+    tools:context="com.coderYogyakarta.fragment_box_office.ImageSliderHomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <ImageView
+        android:id="@+id/imageSliderHome"
+        android:scaleType="centerCrop"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="match_parent" />
 
 </FrameLayout>
